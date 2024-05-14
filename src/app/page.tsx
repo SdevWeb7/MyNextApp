@@ -1,9 +1,11 @@
 
 export default function Home() {
-  return (
-    <main>
+
+
+  return <>
 
       <h1>HOME</h1>
-    </main>
-  );
+
+      
+    </>;
 }
